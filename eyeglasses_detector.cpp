@@ -1,5 +1,6 @@
 #pragma once
 
+#include "eyeglasses_detector.h"
 #include "svm_model.hpp"
 
 using namespace dlib;
